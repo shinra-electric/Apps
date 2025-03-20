@@ -1,5 +1,5 @@
-# Apps
-A collection of apps for macOS and/or iOS.
+# Forked Third-party Apps
+A collection of apps that I have forked in order to update them or so they will build on macOS/iOS 
 
 ## Utilities
 
